@@ -1,0 +1,4 @@
+C:\Users\giacomo.strambi\Downloads\simpleblog\simpleblog\SimpleBlog\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giacomo.strambi\Downloads\simpleblog\simpleblog\SimpleBlog\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\giacomo.strambi\Downloads\simpleblog\simpleblog\SimpleBlog\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\giacomo.strambi\Downloads\simpleblog\simpleblog\SimpleBlog\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
